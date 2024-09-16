@@ -1,0 +1,10 @@
+.DS_Store
+
+## Ignore Altium files
+*.LOG
+__Previews/
+History/
+*.PrjPCBStructure
+*.SchDocPreview
+*.PcbDocPreview
+Project\ Logs
