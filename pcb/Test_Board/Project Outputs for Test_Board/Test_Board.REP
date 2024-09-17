@@ -46,6 +46,26 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Paste
+      File : Test_Board_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : Test_Board_Soldermask_Bot.gbr
 
@@ -64,26 +84,6 @@ Used DCodes :
     D22
     D23
     D24
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Test_Board_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
 *************************************************************
 
 *************************************************************

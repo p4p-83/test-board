@@ -1,11 +1,24 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Test_Board.PrjPcb]
-   Generated File[Test_Board.LDP]
-   Generated File[Test_Board.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Test_Board.PrjPcb]
+   Generated File[Test_Board_Legend_Top.gbr]
+   Generated File[Test_Board_Soldermask_Top.gbr]
+   Generated File[Test_Board_Copper_Signal_Top.gbr]
+   Generated File[Test_Board_Copper_Signal_Bot.gbr]
+   Generated File[Test_Board_Soldermask_Bot.gbr]
+   Generated File[Test_Board_Paste_Bot.gbr]
+   Generated File[Test_Board_Legend_Bot.gbr]
+   Generated File[Test_Board_Mechanical_1.gbr]
+   Generated File[Test_Board_Mechanical_13.gbr]
+   Generated File[Test_Board_Mechanical_15.gbr]
+   Generated File[Test_Board_Keep-out.gbr]
+   Generated File[Test_Board_Pads_Bot.gbr]
+   Generated File[Test_Board_Profile.gbr]
+   Generated File[Test_Board.EXTREP]
+   Generated File[Test_Board.REP]
 
 
-Files Generated   : 2
+Files Generated   : 15
 Documents Printed : 0
 
-Finished Output Generation At 3:03:54 pm On 17/09/2024
+Finished Output Generation At 3:37:12 pm On 17/09/2024
