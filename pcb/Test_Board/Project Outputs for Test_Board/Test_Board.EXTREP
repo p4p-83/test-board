@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Test_Board.GBR   17/09/2024  3:03:12 pm
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Overlay                             
+.gbr                Top Solder                              
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Mechanical 1                            
+.gbr                Mechanical 13                           
+.gbr                Mechanical 15                           
+.gbr                Keep-Out Layer                          
+.gbr                Bottom Pad Master                       
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------
